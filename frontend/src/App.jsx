@@ -24,7 +24,7 @@ function App() {
 
     setLoading(true)
     try {
-      const res = await fetch("https://cv-enhancer-ai-2.onrender.com", {
+      const res = await fetch("https://cv-enhancer-ai-2.onrender.com/analyze", {
         method: "POST",
         body: formData,
       })
