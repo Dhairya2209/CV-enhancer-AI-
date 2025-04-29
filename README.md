@@ -8,8 +8,7 @@ An intelligent web application that parses resumes, analyzes them using **Google
 
 ## 🚀 Live Demo
 
-🌐 [Frontend (React)](https://your-frontend.netlify.app)  
-🔗 [Backend (Render)](https://cv-enhancer-ai-2.onrender.com)
+🌐 [Frontend (React)](https://cv-enhancer-7uhy3fkxs-dhairyas-projects-58867549.vercel.app/)  
 
 ---
 
